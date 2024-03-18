@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+background-color:
+lightblue;
+}
+
+
+
+ul:hover{
+background-color:
+pink;
+}
+
+li a {
+  display: block;
+color:black;
+padding:14px 16px;
+text-decoration:none;}
+
+li a:hover{
+background-color:#111;
+color:white}
